@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "テレキャスタービーボーイ (long ver.)",
+  "base_artist": "すりぃ",
+  "createdAt": "2025-12-01T14:28:25.165957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "テレキャスタービーボーイ",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/01_テレキャスタービーボーイ_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "テレキャスタービーボーイ",
+      "artist": "麻婆豆腐",
+      "has_synced": true,
+      "path": "select/02_テレキャスタービーボーイ_麻婆豆腐.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "テレキャスタービーボーイ",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/03_テレキャスタービーボーイ_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "テレキャスタービーボーイ - long ver.",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/04_テレキャスタービーボーイ_-_long_ver._すりぃ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "テレキャスタービーボーイ",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_01_テレキャスタービーボーイ_すりぃ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "テレキャスタービーボーイ (long ver.)",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_02_テレキャスタービーボーイ_(long_ver.)_すりぃ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "テレキャスタービーボーイ",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_03_テレキャスタービーボーイ_すりぃ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "テレキャスタービーボーイ(long ver.)",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_04_テレキャスタービーボーイ(long_ver.)_すりぃ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "テレキャスタービーボーイ",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_05_テレキャスタービーボーイ_すりぃ.txt"
+    }
+  ]
+}
